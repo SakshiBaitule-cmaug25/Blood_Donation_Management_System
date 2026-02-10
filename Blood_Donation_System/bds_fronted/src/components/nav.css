@@ -1,0 +1,9 @@
+.nav-font {
+  font-family: 'Poppins', sans-serif;
+  text-transform: capitalize;
+  transition: color 0.3s ease;
+}
+
+.nav-font:hover {
+  color: #ff0000 !important; /* makes text turn bright red on hover */
+}

@@ -1,0 +1,24 @@
+.footer {
+  background-color: #1c1c1c;
+  color: #fff;
+}
+.footer h4, .footer h6 {
+  color: #ffcccb;
+}
+.footer-link {
+  color: #ddd;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.footer-link:hover {
+  color: #ffcccb;
+  text-decoration: underline;
+}
+.footer-icon {
+  color: #fff;
+  font-size: 1.3rem;
+  transition: color 0.3s ease;
+}
+.footer-icon:hover {
+  color: #ffcccb;
+}
